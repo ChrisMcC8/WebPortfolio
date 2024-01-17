@@ -101,12 +101,12 @@ nav ul li {
   gap: 2.5rem;
   max-width: 68.75rem;
   margin: auto;
+  padding: 50px;
 }
 
 .hero img {
   height: 30.5rem;
   width: 40.5rem;
-  padding: 25px;
 }
 
 .bio {
